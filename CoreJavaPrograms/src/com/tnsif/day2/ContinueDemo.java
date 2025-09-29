@@ -1,5 +1,5 @@
 //Program to demonstrate  continue statement
-package day2;
+package com.tnsif.day2;
 
 public class ContinueDemo {
 	public static void main(String[] args) {

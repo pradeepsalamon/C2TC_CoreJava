@@ -1,5 +1,5 @@
 //Program to demonstrate nested loops
-package day2;
+package com.tnsif.day2;
 
 
 

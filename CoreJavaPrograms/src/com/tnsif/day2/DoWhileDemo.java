@@ -1,5 +1,5 @@
 //Program to demonstrate  do while loop
-package day2;
+package com.tnsif.day2;
 
 public class DoWhileDemo {
 	public static void main(String[] args) {

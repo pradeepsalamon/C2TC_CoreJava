@@ -1,5 +1,5 @@
 //Program to define Person entity
-package day3.scanner;
+package com.tnsif.day3.scanner;
 
 public class Person {
 	//Data members

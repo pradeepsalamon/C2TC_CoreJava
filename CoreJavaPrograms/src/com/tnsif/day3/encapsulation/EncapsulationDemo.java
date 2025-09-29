@@ -1,5 +1,5 @@
 //Program to demonstrate class and object 
-package day3.encapsulation;
+package com.tnsif.day3.encapsulation;
 
 public class EncapsulationDemo {
 	public static void main(String[] args) {
