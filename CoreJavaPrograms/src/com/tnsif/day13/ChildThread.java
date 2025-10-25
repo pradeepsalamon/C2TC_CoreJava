@@ -15,11 +15,11 @@ public class ChildThread extends Thread {
 	@Override
 	public void run() {
 		for (int i = 1; i <= n; i++) {
-			try {
-				Thread.sleep(300);
-			} catch (InterruptedException e) {
-				System.err.println("Thread interrupted: " + e.getMessage());
-			}
+//			try {
+//				Thread.sleep(300);
+//			} catch (InterruptedException e) {
+//				System.err.println("Thread interrupted: " + e.getMessage());
+//			}
 			System.out.println(msg + i + " " + Thread.currentThread().getName());
 		}
 	}
